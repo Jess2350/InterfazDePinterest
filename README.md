@@ -15,6 +15,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _cover_.
 
 ### Vista Previa del Proyecto
+![Demo](Imagenes/cap.png)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por correo: jessicaescandellb@gmail.com
